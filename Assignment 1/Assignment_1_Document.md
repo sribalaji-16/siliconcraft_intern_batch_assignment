@@ -21,8 +21,8 @@ end
 endmodule
 ```
 > ### Output
-![Output generation](![WhatsApp Image 2025-05-29 at 02 19 35_81882181](https://github.com/user-attachments/assets/529f3972-e8d4-48b3-8dfd-22cd76cc5623)
-)
+![WhatsApp Image 2025-05-29 at 02 19 35_81882181](https://github.com/user-attachments/assets/529f3972-e8d4-48b3-8dfd-22cd76cc5623)
+
 
  # Question 2
 > ## Part Select Operation
@@ -44,8 +44,8 @@ end
 endmodule
 ```
 > ### Output
-![Output generation](![WhatsApp Image 2025-05-29 at 02 19 35_61499b94](https://github.com/user-attachments/assets/e5916560-4c57-4081-9480-911dadad0e71)
-)
+![WhatsApp Image 2025-05-29 at 02 19 35_61499b94](https://github.com/user-attachments/assets/e5916560-4c57-4081-9480-911dadad0e71)
+
 
  # Question 3
 > ## Manipulate Vector Using Part Select
@@ -84,8 +84,8 @@ module manipulate_vector_using_part_select;
 endmodule
 ```
 > ### Output
-![Output generation](![WhatsApp Image 2025-05-29 at 02 19 35_b3e62ebf](https://github.com/user-attachments/assets/5c6bdd7e-5084-4b21-92bc-d554e4fc3c84)
-)
+![WhatsApp Image 2025-05-29 at 02 19 35_b3e62ebf](https://github.com/user-attachments/assets/5c6bdd7e-5084-4b21-92bc-d554e4fc3c84)
+
 
 # Question 4
 > ## 1D Memory Model
@@ -112,6 +112,4 @@ module one_d_memory_model;
 endmodule
 ```
 > ### Output
-![Output generation](![WhatsApp Image 2025-05-29 at 02 19 35_3e79f061](https://github.com/user-attachments/assets/79a89236-0c8e-4871-bf97-aac532f087bd)
-)
-)
+![WhatsApp Image 2025-05-29 at 02 19 35_3e79f061](https://github.com/user-attachments/assets/79a89236-0c8e-4871-bf97-aac532f087bd)
