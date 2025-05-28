@@ -1,5 +1,5 @@
-# Question 1
-> ## Bit Select Access
+# **Question 1**
+> ## **Bit Select Access**
  Use a vector reg [7:0] data  
  Assign data = 8'b10101100  
  Access specific bit using data[3];  
@@ -9,7 +9,7 @@
 
 + To specifically access the bit from the vector we need to specify the bit using that data defined (i.e data [3]). 
 
-> ### Coding
+> ### **Coding**
 Code to implement this operation is
 ```verilog
 module bit_select_access;
@@ -20,19 +20,19 @@ $display(data[3]);
 end
 endmodule
 ```
-> ### Output
+> ### **Output**
 ![WhatsApp Image 2025-05-29 at 02 19 35_81882181](https://github.com/user-attachments/assets/529f3972-e8d4-48b3-8dfd-22cd76cc5623)
 
 
- # Question 2
-> ## Part Select Operation
+ # **Question 2**
+> ## **Part Select Operation**
  Extract lower nibble from reg [7:0] bus using bus[3:0];  
 #### Implementation
 + To implement this first we need to assign a data with port size of 8 bits (i.e [7:0] bus ).
 
 + To access the certain part of bits from the vector we need to specify the bit using that data defined in terms with specifing those ports with their positions (i.e bus [3:0]). 
 
-> ### Coding
+> ### **Coding**
 Code to implement this operation is
 ```verilog
 module part_select_operation;
@@ -43,12 +43,12 @@ $display(bus[3:0]);
 end
 endmodule
 ```
-> ### Output
+> ### **Output**
 ![WhatsApp Image 2025-05-29 at 02 19 35_61499b94](https://github.com/user-attachments/assets/e5916560-4c57-4081-9480-911dadad0e71)
 
 
- # Question 3
-> ## Manipulate Vector Using Part Select
+ # **Question 3**
+> ## **Manipulate Vector Using Part Select**
  Assign and modify specific bits using both busA[i] = bus[i]; and busA = bus[3:0];  
 
 #### Implementation
@@ -58,7 +58,7 @@ endmodule
 
 + To specifically access the Part select bit from the vector we need to specify the bit using that data defined (i.e busA = %b", busA). 
 
-> ### Coding
+> ### **Coding**
 Code to implement this operation is
 ```verilog
 module manipulate_vector_using_part_select;
@@ -83,12 +83,12 @@ module manipulate_vector_using_part_select;
   end
 endmodule
 ```
-> ### Output
+> ### **Output**
 ![WhatsApp Image 2025-05-29 at 02 19 35_b3e62ebf](https://github.com/user-attachments/assets/5c6bdd7e-5084-4b21-92bc-d554e4fc3c84)
 
 
-# Question 4
-> ## 1D Memory Model
+# **Question 4**
+> ## **1D Memory Model**
  Declare reg [7:0] mem[7:0];  
  Write and read values to/from it.  
 
@@ -97,7 +97,7 @@ endmodule
 
 +  For writing as well as reading we can use for loop statement to implement this assignment 
 
-> ### Coding
+> ### **Coding**
 Code to implement this operation is
 ```verilog
 module one_d_memory_model;
@@ -111,5 +111,5 @@ module one_d_memory_model;
   end
 endmodule
 ```
-> ### Output
+> ### **Output**
 ![WhatsApp Image 2025-05-29 at 02 19 35_3e79f061](https://github.com/user-attachments/assets/79a89236-0c8e-4871-bf97-aac532f087bd)
