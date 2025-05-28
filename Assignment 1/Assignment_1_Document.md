@@ -21,7 +21,7 @@ end
 endmodule
 ```
 > ### Output
-![Output generation](c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\ACSF19L2\IMG-20250529-WA0009[1].jpg)
+![Output generation]("c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\ACSF19L2\IMG-20250529-WA0009[1].jpg")
 
  # Question 2
 > ## Part Select Operation
@@ -43,7 +43,7 @@ end
 endmodule
 ```
 > ### Output
-![Output generation](c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\Z97IE2JB\IMG-20250529-WA0008[1].jpg)
+![Output generation]("c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\Z97IE2JB\IMG-20250529-WA0008[1].jpg")
 
  # Question 3
 > ## Manipulate Vector Using Part Select
@@ -82,7 +82,7 @@ module manipulate_vector_using_part_select;
 endmodule
 ```
 > ### Output
-![Output generation](c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\RQ143D6U\IMG-20250529-WA0007[1].jpg)
+![Output generation]("c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\RQ143D6U\IMG-20250529-WA0007[1].jpg")
 
 # Question 4
 > ## 1D Memory Model
@@ -109,4 +109,4 @@ module one_d_memory_model;
 endmodule
 ```
 > ### Output
-![Output generation](c:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\KOTZJQUW\IMG-20250529-WA0006[1].jpg)
+![Output generation]("C:\Users\sriba\AppData\Local\Microsoft\Windows\INetCache\IE\ACSF19L2\IMG-20250529-WA0006[1].jpg")
