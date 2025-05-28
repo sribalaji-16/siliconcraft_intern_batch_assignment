@@ -1,5 +1,5 @@
  # Question 1
- > ### **Bit Select Access** 
+ > ## **Bit Select Access** 
  Use a vector reg [7:0] data  
  Assign data = 8'b10101100  
  Access specific bit using data[3];  
