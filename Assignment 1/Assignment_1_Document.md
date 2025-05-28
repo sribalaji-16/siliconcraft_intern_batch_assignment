@@ -112,5 +112,6 @@ module one_d_memory_model;
 endmodule
 ```
 > ### Output
-![Output generation](![image](https://github.com/user-attachments/assets/d704c0a7-6ffc-4186-a22c-24d80345ea54)
+![Output generation](![WhatsApp Image 2025-05-29 at 02 19 35_3e79f061](https://github.com/user-attachments/assets/79a89236-0c8e-4871-bf97-aac532f087bd)
+)
 )
